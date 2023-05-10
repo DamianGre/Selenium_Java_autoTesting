@@ -8,6 +8,7 @@ import javax.swing.*;
 import java.lang.Thread;
 
 /*
+Test plan:
 1.Open chrome browser
 2.Go to URL - https://google.com
 3.Maximize window
